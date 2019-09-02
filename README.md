@@ -1,6 +1,6 @@
 # Matlab_SSBDapi
 
-[![Join the chat at https://gitter.im/openssbd/OpenSSBD](https://badges.gitter.im/openssbd/Matlab_SSBDapi.svg)](https://gitter.im/openssbd/Matlab_SSBDapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/openssbd/OpenSSBD](https://badges.gitter.im/openssbd/Matlab_SSBDapi.svg)](https://gitter.im/openssbd/Matlab_SSBDapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Join the chat at https://gitter.im/openssbd/MATLAB_SSBDapi](https://badges.gitter.im/openssbd/MATLAB_SSBDapi.svg)](https://gitter.im/openssbd/MATLAB_SSBDapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Using MATLAB to access SSBD** (http://ssbd.qbic.riken.jp) 
 
